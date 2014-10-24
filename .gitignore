@@ -1,0 +1,12 @@
+HexDraw/*.jpg
+HexDraw/*.png
+HexDraw/*.tmp
+HexDraw/*.pdf
+Maps/*.jpg
+Mapgen/*.*
+Maporg/*.*
+Kaarten/*.*
+MapSouth/*.*
+WieWatWaar/*.*
+*.zip
+
